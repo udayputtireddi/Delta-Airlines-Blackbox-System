@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a systems analysis and design case study developed for **Delta Airlines** as part of the **CIS 480 – Systems Analysis and Design** course at Northeastern University.
+This project is a systems analysis and design case study developed for **Delta Airlines** as part of the **CIS 480 – Systems Analysis and Design** course at Minnesota State University.
 
 It focuses on designing a **Black-Box Monitoring System** to track and document internal technical failures. The system includes formal business requirements, structured system diagrams, and quality assurance documentation through defect reports.
 
