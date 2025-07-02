@@ -43,6 +43,23 @@ It focuses on designing a **Black-Box Monitoring System** to track and document 
 
 ---
 
+## File Structure
+
+```bash
+delta-airlines-blackbox/
+|-- README.md
+|-- docs/
+|   |-- BRD_for_Delta_Project.docx
+|   |-- Final_Presentation.pptx
+|   |-- Defect_Reports/
+|       |-- Defects_Uday.docx
+|-- diagrams/
+|   |-- ERD.drawio.png
+|   |-- Level_0.drawio.png
+|   |-- Level1_Delta_System.drawio.png
+```
+---
+
 ## Installation and Usage
 
 ### Prerequisites
@@ -57,19 +74,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/delta-airlines-blackbox.git
 cd delta-airlines-blackbox
-'''bash
-
-## File Structure
-
-delta-airlines-blackbox/
-|-- README.md
-|-- docs/
-|   |-- BRD_for_Delta_Project.docx
-|   |-- Final_Presentation.pptx
-|   |-- Defect_Reports/
-|       |-- Defects_Uday.docx
-|-- diagrams/
-|   |-- ERD.drawio.png
-|   |-- Level_0.drawio.png
-|   |-- Level1_Delta_System.drawio.png
 
