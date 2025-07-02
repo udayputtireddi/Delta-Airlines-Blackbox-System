@@ -1,4 +1,4 @@
-![ERD drawio](https://github.com/user-attachments/assets/bbb0a032-c106-4238-b6c2-5964d7e6f8c1)# Delta Airlines Black-Box System
+# Delta Airlines Black-Box System
 
 ## Overview
 
@@ -8,26 +8,14 @@ It focuses on designing a **Black-Box Monitoring System** to track and document 
 
 ---
 
-## Live Project
-
-📂 View the full project [on GitHub](https://github.com/yourusername/delta-airlines-blackbox)
-
-![image](https://github.com/user-attachments/assets/983d59b5-e3f2-4db5-89b8-e041a1747a1d)
-
-![image](https://github.com/user-attachments/assets/521de669-60c5-43d4-b796-f74ec6cbe888)
-
-![image](https://github.com/user-attachments/assets/347746b0-8042-4291-8a71-1d25c0fc9ed4)
-
----
-
 ## Preview
 
 ### ENTITY RELATIONSHIP DIAGRAM  
-![ERD](diagrams/ERD.drawio.png)
+![image](https://github.com/user-attachments/assets/983d59b5-e3f2-4db5-89b8-e041a1747a1d)
 
 ### SYSTEM DATA FLOW DIAGRAMS  
-![Level 0 DFD](diagrams/Level_0.drawio.png)  
-![Level 1 DFD](diagrams/Level1_Delta_System.drawio.png)
+![image](https://github.com/user-attachments/assets/521de669-60c5-43d4-b796-f74ec6cbe888) 
+![image](https://github.com/user-attachments/assets/347746b0-8042-4291-8a71-1d25c0fc9ed4)
 
 ---
 
@@ -46,6 +34,17 @@ It focuses on designing a **Black-Box Monitoring System** to track and document 
 - **Microsoft PowerPoint**: For the final stakeholder presentation.
 - **draw.io**: For creating ERD and DFD system diagrams.
 - **Google Drive / OneDrive**: For collaboration and version control.
+
+---
+
+## Skills Gained & Takeaways
+
+- 📌 **Requirements Gathering** – Practiced converting stakeholder needs into documented system requirements.
+- 📌 **Systems Thinking** – Designed structured diagrams to visualize processes and data flow clearly.
+- 📌 **Technical Writing** – Wrote clear, formal documents like BRD and defect logs.
+- 📌 **Team Collaboration** – Worked in a distributed environment using shared tools and timelines.
+- 📌 **Presentation Delivery** – Presented a complex technical solution in a simplified, stakeholder-friendly format.
+- 📌 **QA & Testing Insight** – Learned how to evaluate a system for defects early in the design process.
 
 ---
 
