@@ -1,4 +1,4 @@
-# Delta Airlines Black-Box System
+![ERD drawio](https://github.com/user-attachments/assets/bbb0a032-c106-4238-b6c2-5964d7e6f8c1)# Delta Airlines Black-Box System
 
 ## Overview
 
@@ -11,6 +11,12 @@ It focuses on designing a **Black-Box Monitoring System** to track and document 
 ## Live Project
 
 📂 View the full project [on GitHub](https://github.com/yourusername/delta-airlines-blackbox)
+
+![image](https://github.com/user-attachments/assets/983d59b5-e3f2-4db5-89b8-e041a1747a1d)
+
+![image](https://github.com/user-attachments/assets/521de669-60c5-43d4-b796-f74ec6cbe888)
+
+![image](https://github.com/user-attachments/assets/347746b0-8042-4291-8a71-1d25c0fc9ed4)
 
 ---
 
