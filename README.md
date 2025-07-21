@@ -30,11 +30,6 @@ It focuses on designing a **Black-Box Monitoring System** to track and document 
 
 ## Technologies Used
 
-- **Microsoft Word**: For the BRD and individual defect reports.
-- **Microsoft PowerPoint**: For the final stakeholder presentation.
-- **draw.io**: For creating ERD and DFD system diagrams.
-- **Google Drive / OneDrive**: For collaboration and version control.
-
 ---
 
 ## Skills Gained & Takeaways
