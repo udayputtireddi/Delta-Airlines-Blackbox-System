@@ -28,7 +28,22 @@ It focuses on designing a **Black-Box Monitoring System** to track and document 
 
 ---
 
+## Technologies Used
 
+- **Microsoft Word**: For the BRD and individual defect reports.
+- **Microsoft PowerPoint**: For the final stakeholder presentation.
+- **draw.io**: For creating ERD and DFD system diagrams.
+- **Google Drive / OneDrive**: For collaboration and version control.
+---
+
+## Skills Gained & Takeaways
+
+- 📌 **Requirements Gathering** – Practiced converting stakeholder needs into documented system requirements.
+- 📌 **Systems Thinking** – Designed structured diagrams to visualize processes and data flow clearly.
+- 📌 **Technical Writing** – Wrote clear, formal documents like BRD and defect logs.
+- 📌 **Team Collaboration** – Worked in a distributed environment using shared tools and timelines.
+- 📌 **Presentation Delivery** – Presented a complex technical solution in a simplified, stakeholder-friendly format.
+- 📌 **QA & Testing Insight** – Learned how to evaluate a system for defects early in the design process.
 
 ---
 
