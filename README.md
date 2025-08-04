@@ -64,7 +64,13 @@ delta-airlines-blackbox/
 ```
 ---
 
+## Installation and Usage
 
+### Prerequisites
+
+- A modern web browser (e.g., Chrome, Firefox, Edge)
+- Microsoft Word or Google Docs
+- Microsoft PowerPoint or Google Slides
 
 ### Installation
 
