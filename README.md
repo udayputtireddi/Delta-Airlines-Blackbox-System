@@ -1,6 +1,6 @@
 # Delta Airlines Black-Box System
 
-## Overview
+
 
 This project is a systems analysis and design case study developed for **Delta Airlines** as part of the **CIS 380 – Systems Analysis and Design** course at Minnesota State University.
 
